@@ -66,14 +66,14 @@ grid-column: span 2;
    
 }
 .menu li a{
-    background-color: rgb(7, 8, 8);
+    background-color: black;
     color: blue;
     text-decoration: none;
     padding: 20px 80px;
     display: block;
 }
 .menu li a:hover{
- background-color: 	cornsilk;
+ background-color: lightgray;
  
 }
 .menu li ul{
