@@ -7,6 +7,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     text-align: left;
     margin-top: 20px;
+    
 
 }
 header{
@@ -20,7 +21,7 @@ header{
 }
 nav{
     background-color: #E0FFFF;
-    margin-bottom: auto;
+    
 }
 section{
     display: grid;
@@ -35,7 +36,7 @@ aside{
 footer{
     background-color: 	#E0FFFF;
     color: black;
-    padding: 10px;
+    padding: 20px;
 }
 
 .informacion{
@@ -45,6 +46,7 @@ grid-column: span 2;
 }
 .contenido .content {
     grid-column: span 2;
+   
 }
 .menu{
     padding: 0px 20px;
@@ -55,20 +57,24 @@ grid-column: span 2;
     flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
-
+    
+  
 }
+
 .menu>li{
     float: left;
+   
 }
 .menu li a{
-    background-color: aliceblue;
-    color: black;
+    background-color: rgb(7, 8, 8);
+    color: blue;
     text-decoration: none;
     padding: 20px 80px;
     display: block;
 }
 .menu li a:hover{
- background-color: 	#F5FFFA;
+ background-color: 	cornsilk;
+ 
 }
 .menu li ul{
     display: none;
@@ -86,6 +92,5 @@ grid-column: span 2;
 .menu li ul il ul{
 right: 140px;
 }
-
 
 
