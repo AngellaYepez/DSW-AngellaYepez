@@ -20,6 +20,7 @@ header{
 }
 nav{
     background-color: #E0FFFF;
+    margin-bottom: auto;
 }
 section{
     display: grid;
@@ -54,6 +55,7 @@ grid-column: span 2;
     flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
+
 }
 .menu>li{
     float: left;
