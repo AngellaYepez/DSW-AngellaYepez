@@ -7,9 +7,18 @@ body {
     font-family: 'Times New Roman', Times, serif;
     text-align: left;
     margin-top: 20px;
-    
-
 }
+#contenedor-pie
+{
+        width: 50%;
+        background: #E0FFFF ;
+        bottom: 1px;
+        bottom: 1px;
+        height: 80px;
+        text-align:center;
+}
+
+
 header{
     background-color: 	#00FFFF;
     padding: 15px;
